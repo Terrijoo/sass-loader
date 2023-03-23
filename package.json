@@ -48,7 +48,6 @@
     "lint-staged": "^8.1.0",
     "mocha": "^6.0.2",
     "mock-require": "^3.0.1",
-    "node-sass": "^4.5.0",
     "nyc": "^13.1.0",
     "raw-loader": "^1.0.0",
     "prettier": "^1.15.2",
